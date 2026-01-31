@@ -1,4 +1,4 @@
-# Liiuxue-deployment
+# 留学信息引擎-deployment version
 
 这是一个前后端分离的留学资讯平台项目。
 
